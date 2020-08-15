@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Eddie Jaoude](https://user-images.githubusercontent.com/624760/87244208-890e1880-c433-11ea-8383-3ea0704104b7.png)
+![Shivi Bhatt](https://user-images.githubusercontent.com/25372409/90305467-1354fc80-de78-11ea-8621-857f28a1a641.gif)
 <!--
 **ShiviBhatt/ShiviBhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
