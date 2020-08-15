@@ -50,7 +50,7 @@
 <p align="left">
 <a href="https://github.com/bhattshivi">
   <img height="215em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhattshivi&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="215em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhattshivi&theme=vue&layout=compact&exclude_lang=r"/>
+  <img height="180emem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhattshivi&theme=vue&layout=compact&exclude_lang=r"/>
   <img height="140emem" src="https://github-readme-stats.vercel.app/api/pin/?username=bhattshivi&repo=Dev_Huskies_Final_Project&show_owner=bhattshivi)](https://github.com/ShiviBhatt/Dev_Huskies_Final_Project/>" />
   </a>
 </p>
