@@ -42,14 +42,14 @@
 </table>
 <p align="left">
 <a href="https://github.com/ShiviBhatt">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShiviBhatt&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShiviBhatt&theme=vue&layout=compact&exclude_lang=r"/>
+  <img height="206em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShiviBhatt&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="206em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShiviBhatt&theme=vue&layout=compact&exclude_lang=r"/>
 
   </a>
 </p>
 <p align="left">
   <a href="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ShiviBhatt&repo=Dev_Huskies_Final_Project&show_owner=ShiviBhatt)](https://github.com/ShiviBhatt/Dev_Huskies_Final_Project/>" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=ShiviBhatt&repo=Dev_Huskies_Final_Project&show_owner=ShiviBhatt)](https://github.com/ShiviBhatt/Dev_Huskies_Final_Project/>" />
   </a>
   </p>
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
