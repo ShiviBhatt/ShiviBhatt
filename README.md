@@ -3,7 +3,7 @@
   <tr>
     <td> <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Information Systems at Northeastern Univerisity, Boston.
 - 💼 &nbsp; Working as a Graduate Teaching Assistant, Course: (CSYE: 6200) Concepts of Object-Oriented - JAVA
 - 🌱 &nbsp; Learning more about Web Development Frameworks. </td>
