@@ -47,9 +47,10 @@
 
   </a>
 </p>
-<p align="left">
-  <a href="">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=ShiviBhatt&repo=Dev_Huskies_Final_Project&show_owner=ShiviBhatt)](https://github.com/ShiviBhatt/Dev_Huskies_Final_Project/>" />
+<p align="left"><h4 align="left"> Northeastern Account Github Stats </h3>
+  <a href="https://github.com/ShiviBhatt">
+    <img height="215em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhattshivi&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="215em" src="https://github-readme-stats.vercel.app/api/pin/?username=ShiviBhatt&repo=Dev_Huskies_Final_Project&show_owner=ShiviBhatt)](https://github.com/ShiviBhatt/Dev_Huskies_Final_Project/>" />
   </a>
   </p>
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
