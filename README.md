@@ -33,16 +33,20 @@
 </td>
   </tr>
 </table>
-
-
-
-
 <table width="100%"> 
   <tr>
     <td><img src="https://media.giphy.com/media/KeWA9MRyCNdyFyJiwv/giphy.gif"/></td>
     <td><img src="https://user-images.githubusercontent.com/25372409/90306232-d68d0380-de7f-11ea-9fee-5ab474bf066a.png"/></td>
   </tr>
 </table>
+<p align="center">
+<a href="https://github.com/ShiviBhatt">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShiviBhatt&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShiviBhatt&theme=vue&layout=compact&exclude_lang=r"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ShiviBhatt&repo=github-readme-stats)](https://github.com/ShiviBhatt/github-readme-stats"/>
+  </a>
+</p>
+
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
@@ -57,3 +61,5 @@
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{syedareehaquasar}/count.svg)
 <!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
+
+
