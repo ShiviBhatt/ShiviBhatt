@@ -49,7 +49,7 @@
 </p>
 <p align="left">
   <a href="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ShiviBhatt&repo=github-readme-stats&show_owner=ShiviBhatt)](https://github.com/ShiviBhatt/github-readme-stats/>" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ShiviBhatt&repo=Dev_Huskies_Final_Project&show_owner=ShiviBhatt)](https://github.com/ShiviBhatt/Dev_Huskies_Final_Project/>" />
   </a>
   </p>
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
