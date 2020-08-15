@@ -48,19 +48,12 @@
   </tr>
 </table>
 
-<table width="100%"> 
-  <tr>
-    <td><img height="215em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhattshivi&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/></td>
-    <td><img height="215em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhattshivi&theme=vue&layout=compact&exclude_lang=r"/></td>
-  </tr>
-</table>
-
-
 <h3 align="center"> My Northeastern University Account GitHub Stats</h3>
 <table width="100%"> 
   <tr>
     <td><img height="240" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhattshivi&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/></td>
-    </td>
+     <td><img  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhattshivi&theme=vue&layout=compact&exclude_lang=r"/></td>
+    
   </tr>
 </table>
 
