@@ -40,7 +40,7 @@
     <td><img src="https://user-images.githubusercontent.com/25372409/90306232-d68d0380-de7f-11ea-9fee-5ab474bf066a.png"/></td>
   </tr>
 </table>
-<p align="center">
+<p align="left">
 <a href="https://github.com/ShiviBhatt">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShiviBhatt&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShiviBhatt&theme=vue&layout=compact&exclude_lang=r"/>
