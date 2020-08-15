@@ -61,7 +61,6 @@
   <tr>
     <td><img height="240" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhattshivi&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/></td>
     </td>
-    <td><img height="215em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhattshivi&theme=vue&layout=compact&exclude_lang=r"/></td>
   </tr>
 </table>
 
