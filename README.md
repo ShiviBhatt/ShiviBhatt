@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Shivi Bhatt](https://user-images.githubusercontent.com/25372409/90305467-1354fc80-de78-11ea-8621-857f28a1a641.gif)
+<p align="center"><img width="650" height="270" src="https://media.giphy.com/media/LRZgK7UReM9cTfU8Zy/giphy.gif" alt="Intro" /></p>
 <!--
 **ShiviBhatt/ShiviBhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
