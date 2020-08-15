@@ -2,7 +2,7 @@
 <table width="100%"> 
   <tr>
     <td><img src="https://media.giphy.com/media/KeWA9MRyCNdyFyJiwv/giphy.gif"/></td>
-   
+    <td><img src="https://user-images.githubusercontent.com/25372409/90306232-d68d0380-de7f-11ea-9fee-5ab474bf066a.png"/></td>
   </tr>
 </table>
 
