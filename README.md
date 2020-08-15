@@ -44,11 +44,10 @@
 <a href="https://github.com/ShiviBhatt">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShiviBhatt&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShiviBhatt&theme=vue&layout=compact&exclude_lang=r"/>
-  <img height="180em" src="https://github.com/ShiviBhatt/github-readme-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ShiviBhatt&repo=github-readme-stats&show_owner=ShiviBhatt)](https://github.com/ShiviBhatt/github-readme-stats/>
   </a>
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShiviBhatt&repo=github-readme-stats&show_owner=ShiviBhatt)](https://github.com/ShiviBhatt/github-readme-stats)
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
