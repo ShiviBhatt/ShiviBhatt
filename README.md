@@ -1,10 +1,10 @@
-### Hi there 👋
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+![ShiviBhatt](https://user-images.githubusercontent.com/25372409/90305758-92e3cb00-de7a-11ea-95b8-b2c7e2b338cc.png)
+
 <!--
 **ShiviBhatt/ShiviBhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
