@@ -74,7 +74,13 @@
 <a href="https://twitter.com/ShiviBhatt"><img src="https://img.shields.io/badge/-@ShiviBhatt-1769FF?style=flat-square&logo=Twitter&logoColor=white"/></a>
 </p>
 
+
+[![HitCount](http://hits.dwyl.com/ShiviBhatt/ShiviBhatt.svg)](http://hits.dwyl.com/ShiviBhatt/ShiviBhatt) 
+
+
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{syedareehaquasar}/count.svg)
 <!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
+
+
 
