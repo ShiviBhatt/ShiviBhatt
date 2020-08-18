@@ -1,7 +1,6 @@
 
 ![Design](https://user-images.githubusercontent.com/25372409/90567235-b64e9480-e15e-11ea-9d3a-40c93c05d0bc.gif)
 
-
 <table width="100%"> 
   <tr>
     <td> <h3> 👨🏻‍💻 &nbsp;About Me </h3>
