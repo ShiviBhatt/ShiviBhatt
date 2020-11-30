@@ -1,45 +1,16 @@
 
-![Design](https://user-images.githubusercontent.com/25372409/90567235-b64e9480-e15e-11ea-9d3a-40c93c05d0bc.gif)
+
 
 <table width="100%"> 
   <tr>
     <td> <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🤔 &nbsp; Exploring new technologies in data and looking for internship in data analyst roles.
 - 🎓 &nbsp; Studying Information Systems at Northeastern Univerisity, Boston.
-- 💼 &nbsp; Working as a Graduate Teaching Assistant, Course: (CSYE: 6200) Concepts of Object-Oriented - JAVA
-- 🌱 &nbsp; Currently Solving Problems and learning web development
-- 📚 &nbsp; <a href="https://leetcode.com/shivibhatt/"><img src="https://img.shields.io/badge/-LeetCode-D14836?style=flat-square&logo=LeetCode&logoColor=white"/></a></td>
-<td><h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-- 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MSSQL](https://img.shields.io/badge/-MSSQL-333333?style=flat&logo=mssql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
+- 💼 &nbsp; Working as a Graduate Teaching Assistant, Course: (INFO: 5100) Application Engineering Development - JAVA, formerly worked as TA of CSYE: 6200
+- 🌱 &nbsp; Currently Solving Problems and learning data to forecast and visualize
+- 📚 &nbsp; Current course work dwbi and business analysis
 </td>
-  </tr>
-</table>
-<table width="100%"> 
-  <tr>
-    <td><img src="https://media.giphy.com/media/KeWA9MRyCNdyFyJiwv/giphy.gif"/></td>
-    <td><img src="https://user-images.githubusercontent.com/25372409/90306232-d68d0380-de7f-11ea-9fee-5ab474bf066a.png"/></td>
   </tr>
 </table>
 <h3 align="center"> This Account GitHub Stats</h3>
