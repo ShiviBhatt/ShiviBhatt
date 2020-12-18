@@ -29,14 +29,22 @@
   </tr>
 </table>
 
-<p align="left">
-<a href="https://github.com/bhattshivi">
+
+</table>
+<table width="100%"> 
+  <tr>
+    <td>
+    <a href="https://github.com/bhattshivi">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=bhattshivi&repo=Dev_Huskies_Final_Project&show_owner=bhattshivi)](https://github.com/ShiviBhatt/Dev_Huskies_Final_Project/>" />
   </a>
- <a href="https://github.com/shivibhatt">
+    </td>
+     <td>
+        <a href="https://github.com/shivibhatt">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=shivibhatt&repo=WebDesign-MERN-INFO-6150&show_owner=shivibhatt)](https://github.com/ShiviBhatt/WebDesign-MERN-INFO-6150>" />
   </a>
-</p>
+</td>
+  </tr>
+</table>
 
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
