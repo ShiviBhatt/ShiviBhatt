@@ -30,8 +30,8 @@
   </a>
     </td>
      <td>
-        <a href="https://github.com/shivibhatt">
-  <img height="215em" src="https://github-readme-stats.vercel.app/api/pin/?username=shivibhatt&repo=WebDesign-MERN-INFO-6150&show_owner=shivibhatt)](https://github.com/ShiviBhatt/WebDesign-MERN-INFO-6150>" />
+        <a href="https://github.com/ShiviBhatt/WebDesign-MERN-INFO-6150">
+  <img height="215em" src="https://github-readme-stats.vercel.app/api/pin/?username=ShiviBhatt&repo=WebDesign-MERN-INFO-6150&show_owner=ShiviBhatt)](https://github.com/ShiviBhatt/WebDesign-MERN-INFO-6150>" />
   </a>
 </td>
   </tr>
