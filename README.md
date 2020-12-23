@@ -25,7 +25,7 @@
 <table width="100%"> 
   <tr>
     <td>
-    <a href="https://github.com/bhattshivi">
+    <a href="https://github.com/bhattshivi/Dev_Huskies_Final_Project">
   <img height="215em" src="https://github-readme-stats.vercel.app/api/pin/?username=bhattshivi&repo=Dev_Huskies_Final_Project&show_owner=bhattshivi)](https://github.com/ShiviBhatt/Dev_Huskies_Final_Project/>" />
   </a>
     </td>
