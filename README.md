@@ -10,6 +10,7 @@
 - 💼 &nbsp; Working as a Graduate Teaching Assistant, Course: (INFO: 5100) Application Engineering Development - JAVA, formerly worked as TA of CSYE: 6200
 - 🌱 &nbsp; Currently Solving Problems and learning data to forecast and visualize
 - 📚 &nbsp; Current course work Datawarehouse & Business intelligence and Data Science Method and Tools
+- Linkedin : https://www.linkedin.com/in/shivibhatt/
 </td>
   </tr>
 </table>
