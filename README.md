@@ -5,11 +5,11 @@
   <tr>
     <td> <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies in data and looking for internship in data analyst roles.
+- 🤔 &nbsp; Exploring new Business data to solve complex problem and present them in a simple way!!
 - 🎓 &nbsp; Studying Information Systems at Northeastern Univerisity, Boston.
 - 💼 &nbsp; Working as a Graduate Teaching Assistant, Course: (INFO: 5100) Application Engineering Development - JAVA, formerly worked as TA of CSYE: 6200
-- 🌱 &nbsp; Currently Solving Problems and learning data to forecast and visualize
-- 📚 &nbsp; Current course work Datawarehouse & Business intelligence and Data Science Method and Tools
+- 🌱 &nbsp; Currently Working as BI Intern @ Autodesk
+- 📚 &nbsp; Currently an Intern, coursework will update in fall, looking for full time opportunity available to join by Jan 2022
 - Linkedin : https://www.linkedin.com/in/shivibhatt/
 </td>
   </tr>
