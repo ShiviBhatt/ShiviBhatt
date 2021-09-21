@@ -5,11 +5,15 @@
   <tr>
     <td> <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new Business data to solve complex problem and present them in a simple way!!
+- 🤔 &nbsp; Exploring new Business data to solve complex problem and Visualize them in a simple way!!
 - 🎓 &nbsp; Studying Information Systems at Northeastern Univerisity, Boston.
-- 💼 &nbsp; Working as a Graduate Teaching Assistant, Course: (INFO: 5100) Application Engineering Development - JAVA, formerly worked as TA of CSYE: 6200
-- 🌱 &nbsp; Currently Working as BI Intern @ Autodesk
-- 📚 &nbsp; Currently an Intern, coursework will update in fall, looking for full time opportunity available to join by Jan 2022
+- 💼 &nbsp; Working as a Graduate Teaching Assistant,<br> 
+      Courses: <br>
+      INFO 5100 : JAVA <br>
+      CSYE 6200 : OOPS <br>
+      INFO 6150 : Web Design (Html, Css, Javascript, React) <br>
+- 🌱 &nbsp; Former BI Intern @ Autodesk
+- 📚 &nbsp; Avaiable for Full Time opportunity, Hire Me!!
 - Linkedin : https://www.linkedin.com/in/shivibhatt/
 </td>
   </tr>
