@@ -1,7 +1,7 @@
 ### Hi there, I'm Shivi! <img src="https://github.com/ShiviBhatt/IconsRepo/blob/master/Hi.gif" width="30px">
 
 Welcome to my portfolio. I am a Business Intelligence Developer/ Data Analyst and Data story teller. 
-I have total 5 years relevant work experience in Analytics
+I have total 5 years relevant work experience in Data Analytics
 
 *Note: Data used in projects are for demonstration purposes and derive from publicly accessible sources.
 
