@@ -6,14 +6,14 @@ Welcome to my portfolio. Big Data Enthusiast
 
 🧐 About:
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m currently looking for a full time opportunity as a Business Intelligence Developer
-- 💻   Actively looking full time roles in Data Engineer / BI roles in Bay Area only
-- 🌱   I’m currently leetcoding SQL & Python
-- 🎓   Graduated from Northeastern University in Dec 2021
-- 👯   Summer 2021 I worked with Autodesk as Business Intelligence Intern 
-- 🥅   2023 Goals: Learn Learn Learn!
-- 📫   Reach me at **bhatt.s@northeastern.edu**
--
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I’m currently looking for a full time opportunity as a Business Intelligence Developer
+- 💻 Actively looking full time roles in Data Engineer / BI roles in Bay Area only
+- 🌱 I’m currently leetcoding SQL & Python
+- 🎓 Graduated from Northeastern University in Dec 2021
+- 👯 Summer 2021 I worked with Autodesk as Business Intelligence Intern 
+- 🥅 2023 Goals: Learn Learn Learn!
+- 📫 Reach me at **bhatt.s@northeastern.edu**
+<br>
 
 
 
