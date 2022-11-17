@@ -1,16 +1,17 @@
 ### Hi there, I'm Shivi! <img src="https://github.com/ShiviBhatt/IconsRepo/blob/master/Hi.gif" width="30px">
 
-Welcome to my portfolio. I am a Business Intelligence Developer/ Data Analyst and Data story teller. 
-I have total 5 years relevant work experience in Data Analytics
+Welcome to my portfolio. Big Data Enthusiast
 
 *Note: Data used in projects are for demonstration purposes and derive from publicly accessible sources.
 
 🧐 About:
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently looking for a full time opportunity as a Business Intelligence Developer
+- 💻 Actively looking full time roles in Data Engineer / BI roles in Bay Area only
 - 🌱 I’m currently leetcoding SQL & Python
-- 👯 This Summer I worked with Autodesk as Business Intelligence Intern 
-- 🥅 2022 Goals: Learn Learn Learn!
+- 🎓 Graduated from Northeastern University in Dec 2021
+- 👯 Summer 2021 I worked with Autodesk as Business Intelligence Intern 
+- 🥅 2023 Goals: Learn Learn Learn!
 - 📫 Reach me at **bhatt.s@northeastern.edu**
 - Linkedin : https://www.linkedin.com/in/shivibhatt/
 - Tableau Profile: https://public.tableau.com/app/profile/shivi.bhatt
