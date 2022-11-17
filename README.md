@@ -6,7 +6,7 @@ Welcome to my portfolio. Big Data Enthusiast
 
 🧐 About:
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I’m full time roles in Data Engineer / BI roles in Bay Area only 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I’m Actively seeking full time roles in Data Engineer / BI roles in **Bay Area only** 
 - 🌱 I’m currently leetcoding SQL & Python
 - 🎓 Graduated from Northeastern University in Dec 2021
 - 👯 Summer 2021 I worked with Autodesk as Business Intelligence Intern 
