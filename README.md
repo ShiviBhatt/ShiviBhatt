@@ -15,7 +15,7 @@ Welcome to my portfolio. Big Data Enthusiast
 - Linkedin : https://www.linkedin.com/in/shivibhatt/
 - Tableau Profile: https://public.tableau.com/app/profile/shivi.bhatt
 - Power BI Sample Work: https://app.powerbi.com/view?r=eyJrIjoiNGQ3NzAxNDUtZTc2Mi00NWNlLWI4NDktZGExNzI0ZjlmZjliIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9
-Click on Analyze Report once hitting the above URL to navigate to dashboard
+<br> ### Click on Analyze Report once hitting the above URL to navigate to dashboard
 - 📌 Do check out my pinned projects below👇
 
 <img align="right" alt="GIF" src="https://github.com/ShiviBhatt/IconsRepo/blob/master/code.gif?raw=true" width="500" height="320" />
