@@ -14,8 +14,6 @@ Welcome to my portfolio. Big Data Enthusiast
 - 📫 Reach me at **bhatt.s@northeastern.edu**
 - Linkedin : https://www.linkedin.com/in/shivibhatt/
 - Tableau Profile: https://public.tableau.com/app/profile/shivi.bhatt
-
-
 - 📌 Do check out my pinned projects below👇
 
 <img align="right" alt="GIF" src="https://github.com/ShiviBhatt/IconsRepo/blob/master/code.gif?raw=true" width="500" height="320" />
