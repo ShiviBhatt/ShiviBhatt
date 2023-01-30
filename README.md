@@ -14,7 +14,7 @@ Welcome to my portfolio. Big Data Enthusiast
 - 📫 Reach me at **bhatt.s@northeastern.edu**
 - Linkedin : https://www.linkedin.com/in/shivibhatt/
 - Tableau Profile: https://public.tableau.com/app/profile/shivi.bhatt
-- Power BI Sample Work: <iframe title="PowerBIWeekReport" width="0" height="0" src="https://app.powerbi.com/view?r=eyJrIjoiNGQ3NzAxNDUtZTc2Mi00NWNlLWI4NDktZGExNzI0ZjlmZjliIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
+- Power BI Sample Work: https://app.powerbi.com/view?r=eyJrIjoiNGQ3NzAxNDUtZTc2Mi00NWNlLWI4NDktZGExNzI0ZjlmZjliIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9
 - 📌 Do check out my pinned projects below👇
 
 <img align="right" alt="GIF" src="https://github.com/ShiviBhatt/IconsRepo/blob/master/code.gif?raw=true" width="500" height="320" />
