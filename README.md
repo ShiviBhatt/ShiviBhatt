@@ -12,6 +12,7 @@ Welcome to my portfolio. Big Data Enthusiast
 - 🥅 2024 Goals: Learn Learn Learn!
 - 📫 Reach me at **bhatt.s@northeastern.edu**
 - Linkedin : https://www.linkedin.com/in/shivibhatt/
+- Comming Soon - updated list of projects
 
 ###### Click on Analyze Report once you hit the above URL to navigate to dashboard
 - 📌 Do check out my pinned projects below👇
