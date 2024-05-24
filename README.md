@@ -7,14 +7,12 @@ Welcome to my portfolio. Big Data Enthusiast
 🧐 About:
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> dream big work hard!!
-- 🌱 I’m currently leetcoding SQL & Python
+- 🌱 I’m currently working as Senior Data Engineer with SSNC Advent
 - 🎓 Graduated from Northeastern University in Dec 2021
-- 👯 Summer 2021 I worked with Autodesk as Business Intelligence Intern 
-- 🥅 2023 Goals: Learn Learn Learn!
+- 🥅 2024 Goals: Learn Learn Learn!
 - 📫 Reach me at **bhatt.s@northeastern.edu**
 - Linkedin : https://www.linkedin.com/in/shivibhatt/
-- Tableau Profile: https://public.tableau.com/app/profile/shivi.bhatt
-- Power BI Sample Work: https://app.powerbi.com/view?r=eyJrIjoiNGQ3NzAxNDUtZTc2Mi00NWNlLWI4NDktZGExNzI0ZjlmZjliIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9 <br> 
+
 ###### Click on Analyze Report once you hit the above URL to navigate to dashboard
 - 📌 Do check out my pinned projects below👇
 
